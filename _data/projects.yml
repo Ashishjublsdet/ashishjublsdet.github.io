@@ -4,7 +4,7 @@
 - name: Rest-Assured-Api-Automation-Framework
   gh_user: Ashishjublsdet
   repo: Rest-Assured-Api-Automation-Framework
-  img: https://user-images.githubusercontent.com/32843441/62822286-71724400-bb81-11e9-9c0b-59fe58dd39a8.png
+  img: https://raw.githubusercontent.com/Ashishjublsdet/ashishjublsdet.github.io/master/images/rest.png
   desc:  Rest API automation using Rest Assured ,Java, TestNg & Maven & Extent Reporting for APIS  ...
 
 - name: Appium-PageObject-Mobile-Automation
@@ -22,5 +22,5 @@
 - name: Selenium-PageObject-Java-Automation-Framework
   gh_user: Ashishjublsdet
   repo: Selenium-PageObject-Java-AutomationFramework
-  img: https://raw.githubusercontent.com/ArvatoSystems/FaceApiWPF/master/FaceApiWPFScreenshot.png
+  img: https://raw.githubusercontent.com/Ashishjublsdet/ashishjublsdet.github.io/master/images/selenium.png
   desc: Selenium page object automation framework using java & Maven & TestNG & Extent Report.
