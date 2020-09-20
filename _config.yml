@@ -1,20 +1,17 @@
 # Site settings
 title: Ashish Singh
-description: 'Business Card Page'
+description: 'Ashish Portfolio'
 url: 'https://ashishjublsdet.github.io/'
 baseurl: ''
 profilepic: '/images/ashish.jpg'
 bkimage: '/images/bk1.jpg'
-google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
   name: 'Ashish Singh'
   email: ashishsdet88@gmail.com
-#  facebook_username: joshgerdes
   github_username:  ashishjublsdet
   linkedin_username:  ashish-singh-7106558b
-  meetup_name: Azure-Meetup-Rostock-MV
 
 # Build settings
 destination: _site
@@ -26,10 +23,7 @@ sass:
     style: compressed
 
 kramdown:
-  # use Github Flavored Markdowsn
   input: GFM
-  # do not replace newlines by <br>s
   hard_wrap: false
 
-#plugins: ['jekyll-paginate']
 exclude: ['README.md', 'screenshot-overview.png']
