@@ -13,9 +13,9 @@
   img: https://raw.githubusercontent.com/Ashishjublsdet/ashishjublsdet.github.io/master/images/code.png
   desc: Appium-PageObject-Java-Mobile-Automation-Framework.
 
-- name: Spring Boot, MySQL, JPA, Hibernate Rest API Tutorial
+- name: Mysql CURD API using Spring Boot, MySQL, JPA, Hibernate Rest
   gh_user: Ashishjublsdet
-  repo: spring-boot-mysql-rest-api-tutorial
+  repo: spring-boot-mysql-example
   img: https://raw.githubusercontent.com/Ashishjublsdet/ashishjublsdet.github.io/master/images/code.png
   desc: Build Restful CRUD API for a simple Note-Taking application using Spring Boot, Mysql, JPA and Hibernate.
 
