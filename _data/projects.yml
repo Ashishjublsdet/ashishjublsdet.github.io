@@ -4,23 +4,23 @@
 - name: Rest-Assured-Api-Automation-Framework
   gh_user: Ashishjublsdet
   repo: Rest-Assured-Api-Automation-Framework
-  img: https://raw.githubusercontent.com/Ashishjublsdet/ashishjublsdet.github.io/master/images/rest.png
+  img: https://raw.githubusercontent.com/Ashishjublsdet/ashishjublsdet.github.io/master/images/code.png
   desc:  Rest API automation using Rest Assured ,Java, TestNg & Maven & Extent Reporting for APIS  ...
 
 - name: Appium-PageObject-Mobile-Automation
   gh_user: Ashishjublsdet
   repo: Appium-PageObject-Mobile-Automation
-  img: https://raw.githubusercontent.com/tzuehlke/jekyll-uno-timeline/master/screenshot-overview.png
+  img: https://raw.githubusercontent.com/Ashishjublsdet/ashishjublsdet.github.io/master/images/code.png
   desc: Appium-PageObject-Java-Mobile-Automation-Framework.
 
 - name: Spring Boot, MySQL, JPA, Hibernate Rest API Tutorial
   gh_user: Ashishjublsdet
   repo: spring-boot-mysql-rest-api-tutorial
-  img: https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png
+  img: https://raw.githubusercontent.com/Ashishjublsdet/ashishjublsdet.github.io/master/images/code.png
   desc: Build Restful CRUD API for a simple Note-Taking application using Spring Boot, Mysql, JPA and Hibernate.
 
 - name: Selenium-PageObject-Java-Automation-Framework
   gh_user: Ashishjublsdet
   repo: Selenium-PageObject-Java-AutomationFramework
-  img: https://raw.githubusercontent.com/Ashishjublsdet/ashishjublsdet.github.io/master/images/selenium.png
+  img: https://raw.githubusercontent.com/Ashishjublsdet/ashishjublsdet.github.io/master/images/code.png
   desc: Selenium page object automation framework using java & Maven & TestNG & Extent Report.
